@@ -695,3 +695,14 @@ img {
 	background-color: #d63c5d;
 	opacity: 1;
 }
+
+/*设置跳转至PDF版简历链接的按钮样式*/
+.jianli {
+	display: block;
+	margin: 10px auto;
+	width: 120px;
+	height: 46px;
+	line-height: 46px;
+	border-radius: 4px;
+	border: 1px solid #fff;
+}
